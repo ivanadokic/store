@@ -21,4 +21,4 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* [Blog](https://dev.to/ivanadokic/building-ruby-on-rails-app-1b30)
